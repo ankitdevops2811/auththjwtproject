@@ -1,0 +1,13 @@
+.title {
+  text-align: center;
+}
+
+.button {
+  text-decoration: none;
+  display: block;
+  background-color: #dddddd;
+  color: #555555;
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}

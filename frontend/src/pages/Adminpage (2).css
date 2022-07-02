@@ -1,0 +1,26 @@
+.signup-signin-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.signup-signin-container h2 {
+  text-align: center;
+}
+
+.signup-signin-container form input,
+.signup-signin-container form button {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.signup-signin-container form .alert-message {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #dddddd;
+}

@@ -1,0 +1,14 @@
+.employee-dashboard {
+  width: 80%;
+  margin-inline: auto;
+}
+
+.employee-dashboard h1 {
+  text-align: center;
+}
+
+.employee-info {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-bottom: 1rem;
+}

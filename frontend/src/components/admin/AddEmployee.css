@@ -1,0 +1,23 @@
+.add-employee {
+  width: 80%;
+  margin-inline: auto;
+}
+
+.add-employee form input,
+.add-employee form textarea,
+.add-employee form button {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+.radioButton
+{
+  width: 7% !important;
+  float: left;
+  margin-top:7px;
+}
+.radiolabel
+{
+  float: left;
+}
